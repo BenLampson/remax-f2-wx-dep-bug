@@ -8,7 +8,7 @@
     "jsx": "preserve",
     "rootDir": "src",
     "jsxFactory": "jsx",
-    "jsxFragmentFactory": "Fragment",
+    "jsxFragmentFactory": "Fragment", 
     "baseUrl": "./",
     "paths": {
       "@/*": ["./src/*"]
