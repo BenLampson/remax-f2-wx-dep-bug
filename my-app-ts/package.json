@@ -12,7 +12,9 @@
     "build": "cross-env NODE_ENV=production remax build -t"
   },
   "dependencies": {
-    "@antv/f2": "^3.6.0",
+    "@antv/f2": "^4.0.22",
+    "@antv/f2-context": "^0.0.1",
+    "@antv/f2-wx": "^4.0.22",
     "clsx": "^1.1.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
